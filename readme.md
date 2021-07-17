@@ -2,8 +2,6 @@
 <h3> UThreads </h3>
 A user-level thread liberary</br></br>
 </p> 
-</br></br>
-
 ## About The Project
 
 This project has been developed in an academic environment, it is fully tested and ready for personal use.
